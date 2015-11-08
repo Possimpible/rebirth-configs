@@ -24,4 +24,12 @@
 	<boss id="98" variant="0"><color idx="18" scale="1.15" hp="1.25" /></boss>
 	<boss id="99" variant="0"><color idx="21" scale="1.15" hp="1.25"/><color idx="7" scale="0.58" hp="0.55" /></boss>
 	<boss id="100" variant="0"><color idx="18" /><color idx="20" /></boss>
+	<boss id="237" variant="1"><color idx="12" /><color idx="18" /></boss><!-- Gurgling: Yellow, Black -->
+	<boss id="260" variant="0"><color idx="18" /><color idx="20" hp="0.5" /></boss><!-- Haunt: Black, Pink -->
+	<boss id="261" variant="0"><color idx="1" /><color idx="18" /></boss><!-- Dingle: Red, Black -->
+	<boss id="262" variant="0"><color idx="1" /><color idx="18" /></boss><!-- Mega Maw: Red, Black -->
+	<boss id="263" variant="0"><color idx="1" /><color idx="18" hp="1.25" /></boss><!-- Gate: Red, Black -->
+	<boss id="264" variant="0"><color idx="1" scale="0.67" hp="0.9"/><color idx="23" hp="1.15" /></boss><!-- Mega Fatty: Red, Brown -->
+	<boss id="265" variant="0"><color idx="3" /><color idx="20" hp="0.5" /></boss><!-- Cage: Green, Pink -->
+	<boss id="269" variant="0"><color idx="1" /><color idx="20" hp="0.5" /></boss><!-- Polycephalus: Red, Pink -->
 </bosscolors>

@@ -1,4 +1,4 @@
-<nightmares root="resources/gfx/ui/stage/" progressAnm2="progress.anm2">
+<nightmares root="gfx/ui/stage/" progressAnm2="progress.anm2">
 	<nightmare anm2="nightmare1.anm2"/>
 	<nightmare anm2="nightmare2.anm2"/>
 	<nightmare anm2="nightmare3.anm2"/>
@@ -8,4 +8,8 @@
 	<nightmare anm2="nightmare7.anm2"/>
 	<nightmare anm2="nightmare8.anm2"/>
 	<nightmare anm2="nightmare9.anm2"/>
+	<nightmare anm2="nightmare10.anm2"/>
+	<nightmare anm2="nightmare11.anm2"/>
+	<nightmare anm2="nightmare12.anm2"/>
+	<nightmare anm2="nightmare13.anm2"/>
 </nightmares>

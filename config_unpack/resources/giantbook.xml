@@ -1,4 +1,4 @@
-<giantbook anm2root="resources/gfx/ui/giantbook/">
+<giantbook anm2root="gfx/ui/giantbook/">
 	<entry id="1" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_001_Necronomicon.png" />
 	<entry id="2" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_002_MonsterManual.png" />
 	<entry id="3" anm2="GiantBook_WhoreOfBabylon.anm2" anim="Appear" gfx="GiantBook_003_WhataNight.png" />
@@ -33,4 +33,8 @@
 	<entry id="32" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_Rebirth_009_SpiderButt.png" />
 	<entry id="33" anm2="GiantBook_Sleep.anm2" anim="Idle" gfx="GiantBook_Rebirth_010_Sleep.png" />
 	<entry id="34" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_Rebirth_001_BookOfBelial.png" />
+	<entry id="35" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_Rebirth_011_Betrayal.png" />
+	<entry id="36" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_Rebirth_012_D8.png" />
+	<entry id="37" anm2="GiantBook.anm2" anim="Shake" gfx="GiantBook_Rebirth_013_D12.png" />
+	<entry id="38" anm2="GiantBook_SuperBum.anm2" anim="Main" gfx="GiantBook_SuperBum.png" />
 </giantbook>

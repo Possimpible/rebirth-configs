@@ -1,6 +1,6 @@
-<sounds root="resources/sfx/">
+<sounds root="sfx/">
 	<sound id="1">
-		<sample weight="1" path="1 up theremin.wav" />
+		<sample weight="1" path="Feedback/1 up theremin.wav" />
 	</sound>
 	<sound id="2">
 		<sample weight="1" path="bird flap.wav" />
@@ -13,7 +13,7 @@
 		<sample weight="1" path="blobby wiggle 3.wav" />
 	</sound>
 	<sound id="4">
-		<sample weight="1" path="insect swarm.wav" />
+		<sample weight="1" path="Loops/insect swarm.wav" />
 	</sound>
 	<sound id="5">
 		<sample weight="1" path="blood laser short.wav" />
@@ -23,7 +23,7 @@
 		<sample weight="1" path="blood laser long.wav" />
 	</sound>
 	<sound id="8">
-		<sample weight="1" path="book page turn.wav" />
+		<sample weight="1" path="Feedback/book page turn.wav" />
 	</sound>
 	<sound id="9">
 		<sample weight="1" path="boss bug hiss.wav" />
@@ -56,16 +56,16 @@
 		<sample weight="1" path="boss spit blob barf 3.wav" />
 	</sound>
 	<sound id="21">
-		<sample weight="1" path="chest drop 1.wav" />
+		<sample weight="1" path="Feedback/chest drop 1.wav" />
 	</sound>
 	<sound id="22">
-		<sample weight="1" path="chest open 1.wav" />
+		<sample weight="1" path="Feedback/chest open 1.wav" />
 	</sound>
 	<sound id="23">
-		<sample weight="1" path="choir.wav" />
+		<sample weight="1" path="Feedback/choir.wav" />
 	</sound>
 	<sound id="24">
-		<sample weight="1" path="coin slot.wav" />
+		<sample weight="1" path="Feedback/coin slot.wav" />
 	</sound>
 	<sound id="25">
 		<sample weight="1" path="cute grunt.wav" />
@@ -82,17 +82,17 @@
 		<sample weight="1" path="death burst small 3.wav" />
 	</sound>
 	<sound id="33">
-		<sample weight="1" path="death card mix.wav" />
+		<sample weight="1" path="Feedback/death card mix.wav" />
 	</sound>
 	<sound id="34">
 		<!--<sample weight="1" path="devil_card.wav" />-->
-		<sample weight="1" path="death card mix.wav" />
+		<sample weight="1" path="Feedback/death card mix.wav" />
 	</sound>
 	<sound id="35">
-		<sample weight="1" path="door heavy close.wav" />
+		<sample weight="1" path="Feedback/door heavy close.wav" />
 	</sound>
 	<sound id="36">
-		<sample weight="1" path="door heavy open.wav" />
+		<sample weight="1" path="Feedback/door heavy open.wav" />
 	</sound>
 	<sound id="37">
 		<sample weight="1" path="fart.wav" />
@@ -129,12 +129,12 @@
 		<sample weight="1" path="hellboss ground pound 2.wav" />
 	</sound>
 	<sound id="54">
-		<sample weight="1" path="holy!.wav" />
+		<sample weight="1" path="Feedback/holy!.wav" />
 	</sound>
 	<sound id="55">
-		<sample weight="1" path="hurt grunt .wav" />
-		<sample weight="1" path="hurt grunt 1.wav" />
-		<sample weight="1" path="hurt grunt 2.wav" />
+		<sample weight="1" path="Player/hurt grunt .wav" />
+		<sample weight="1" path="Player/hurt grunt 1.wav" />
+		<sample weight="1" path="Player/hurt grunt 2.wav" />
 	</sound>
 	<sound id="56">
 		<sample weight="1" path="child happy roar short.wav" />
@@ -146,15 +146,15 @@
 		<sample weight="1" path="child angry roar 2.wav" />
 	</sound>
 	<sound id="58">
-		<sample weight="1" path="key pickup guantlet 4.wav" />
+		<sample weight="1" path="Feedback/key pickup guantlet 4.wav" />
 	</sound>
 	<sound id="59">
-		<sample weight="1" path="key drop 2.wav" />
+		<sample weight="1" path="Feedback/key drop 2.wav" />
 	</sound>
 	<sound id="60">
-		<sample weight="1" path="baby hurt 1.wav" />
-		<sample weight="1" path="baby hurt 2.wav" />
-		<sample weight="1" path="baby hurt 3.wav" />
+		<sample weight="1" path="Player/baby hurt 1.wav" />
+		<sample weight="1" path="Player/baby hurt 2.wav" />
+		<sample weight="1" path="Player/baby hurt 3.wav" />
 	</sound>
 	<sound id="64">
 		<sample weight="1" path="maggot burst out.wav" />
@@ -185,43 +185,43 @@
 		<sample weight="1" path="meaty deaths 4.wav" />
 	</sound>
 	<sound id="82">
-		<sample weight="1" path="vox death.wav" />
+		<sample weight="1" path="Mom/vox death.wav" />
 	</sound>
 	<sound id="84">
-		<sample weight="1" path="evil laugh.wav" />
+		<sample weight="1" path="Mom/evil laugh.wav" />
 	</sound>
 	<sound id="85">
-		<sample weight="1" path="filter death 1.wav" />
+		<sample weight="1" path="Mom/filter death 1.wav" />
 	</sound>
 	<sound id="86">
-		<sample weight="1" path="filter evil laugh.wav" />
+		<sample weight="1" path="Mom/filter evil laugh.wav" />
 	</sound>
 	<sound id="87">
-		<sample weight="1" path="filter hurt.wav" />
-		<sample weight="1" path="filter hurt 1.wav" />
-		<sample weight="1" path="filter hurt 2.wav" />
+		<sample weight="1" path="Mom/filter hurt.wav" />
+		<sample weight="1" path="Mom/filter hurt 1.wav" />
+		<sample weight="1" path="Mom/filter hurt 2.wav" />
 	</sound>
 	<sound id="90">
-		<sample weight="1" path="mom muffle.wav" />
-		<sample weight="1" path="mom muffle 2.wav" />
-		<sample weight="1" path="mom muffle 3.wav" />
-		<sample weight="1" path="mom muffle 4.wav" />
+		<sample weight="1" path="Mom/mom muffle.wav" />
+		<sample weight="1" path="Mom/mom muffle 2.wav" />
+		<sample weight="1" path="Mom/mom muffle 3.wav" />
+		<sample weight="1" path="Mom/mom muffle 4.wav" />
 	</sound>
 	<sound id="93">
-		<sample weight="1" path="grunt.wav" />
-		<sample weight="1" path="grunt 2.wav" />
-		<sample weight="1" path="grunt 3.wav" />
-		<sample weight="1" path="grunt 4.wav" />
+		<sample weight="1" path="Mom/grunt.wav" />
+		<sample weight="1" path="Mom/grunt 2.wav" />
+		<sample weight="1" path="Mom/grunt 3.wav" />
+		<sample weight="1" path="Mom/grunt 4.wav" />
 	</sound>
 	<sound id="97">
-		<sample weight="1" path="hurt 1.wav" />
-		<sample weight="1" path="hurt 2.wav" />
-		<sample weight="1" path="hurt 3.wav" />
+		<sample weight="1" path="Mom/hurt 1.wav" />
+		<sample weight="1" path="Mom/hurt 2.wav" />
+		<sample weight="1" path="Mom/hurt 3.wav" />
 	</sound>
 	<sound id="101">
-		<sample weight="1" path="mom.wav" />
-		<sample weight="1" path="mom2.wav" />
-		<sample weight="1" path="mom3.wav" />
+		<sample weight="1" path="Mom/mom.wav" />
+		<sample weight="1" path="Mom/mom2.wav" />
+		<sample weight="1" path="Mom/mom3.wav" />
 	</sound>
 	<sound id="104">
 		<sample weight="1" path="monster grunt.wav" />
@@ -268,17 +268,17 @@
 		<sample weight="1" path="monster yell b5.wav" />
 	</sound>
 	<sound id="128">
-		<sample weight="1" path="power up1.wav" />
+		<sample weight="1" path="Feedback/power up1.wav" />
 	</sound>
 	<sound id="129">
-		<sample weight="1" path="power up 3.wav" />
-		<sample weight="1" path="power up 4.wav" />
+		<sample weight="1" path="Feedback/power up 3.wav" />
+		<sample weight="1" path="Feedback/power up 4.wav" />
 	</sound>
 	<sound id="130">
-		<sample weight="1" path="power up 7.wav" />
+		<sample weight="1" path="Feedback/power up 7.wav" />
 	</sound>
 	<sound id="132">
-		<sample weight="1" path="power up spewer.wav" />
+		<sample weight="1" path="Feedback/power up spewer.wav" />
 	</sound>
 	<sound id="133">
 		<sample weight="1" path="red lightning zap1.wav" />
@@ -324,7 +324,7 @@
 		<sample weight="1" path="tear fire 5.wav" />
 	</sound>
 	<sound id="156">
-		<sample weight="1" path="unlock.wav" />
+		<sample weight="1" path="Feedback/unlock.wav" />
 	</sound>
 	<sound id="157">
 		<sample weight="1" path="vamp.wav" />
@@ -352,16 +352,16 @@
 		<sample weight="1" path="angry gurgle 2.wav" />
 	</sound>
 	<sound id="169">
-		<sample weight="1" path="band aid pick up.wav" />
+		<sample weight="1" path="Feedback/band aid pick up.wav" />
 	</sound>
 	<sound id="170">
-		<sample weight="1" path="battery charge.wav" />
+		<sample weight="1" path="Feedback/battery charge.wav" />
 	</sound>
 	<sound id="171">
-		<sample weight="1" path="beep.wav" />
+		<sample weight="1" path="Feedback/beep.wav" />
 	</sound>
 	<sound id="175">
-		<sample weight="1" path="blood bank spawn.wav" />
+		<sample weight="1" path="Feedback/blood bank spawn.wav" />
 	</sound>
 	<sound id="178">
 		<sample weight="1" path="blood fire.wav" />
@@ -382,33 +382,33 @@
 		<sample weight="1" path="boss 2 bubbles 1.wav" />
 	</sound>
 	<sound id="187">
-		<sample weight="1" path="boss 2 intro errorbuzz.wav" />
+		<sample weight="1" path="Feedback/boss 2 intro errorbuzz.wav" />
 	</sound>
 	<sound id="190">
-		<sample weight="1" path="castleportcullis.wav" />
+		<sample weight="1" path="Feedback/castleportcullis.wav" />
 	</sound>
 	<sound id="194">
-		<sample weight="1" path="character select left.wav" />
+		<sample weight="1" path="Feedback/character select left.wav" />
 	</sound>
 	<sound id="195">
-		<sample weight="1" path="character select right.wav" />
+		<sample weight="1" path="Feedback/character select right.wav" />
 	</sound>
 	<sound id="197">
-		<sample weight="1" path="derp 0.wav" />
-		<sample weight="1" path="derp 1.wav" />
+		<sample weight="1" path="Player/derp 0.wav" />
+		<sample weight="1" path="Player/derp 1.wav" />
 	</sound>
 	<sound id="198">
-		<sample weight="1" path="dime drop.wav" />
+		<sample weight="1" path="Feedback/dime drop.wav" />
 	</sound>
 	<sound id="199">
-		<sample weight="1" path="dime pick up.wav" />
+		<sample weight="1" path="Feedback/dime pick up.wav" />
 	</sound>
 	<sound id="201">
 		<sample weight="1" path="fetus feet.wav" />
 		<sample weight="1" path="fetus feet 2.wav" />
 	</sound>
 	<sound id="204">
-		<sample weight="1" path="golden key.wav" />
+		<sample weight="1" path="Feedback/golden key.wav" />
 	</sound>
 	<sound id="205">
 		<sample weight="1" path="goo attach 1.wav" />
@@ -420,7 +420,7 @@
 		<sample weight="1" path="goo death 2.wav" />
 	</sound>
 	<sound id="211">
-		<sample weight="1" path="hand laser.wav" />
+		<sample weight="1" path="Satan/hand laser.wav" />
 	</sound>
 	<sound id="212">
 		<sample weight="1" path="heartin.wav" />
@@ -429,18 +429,18 @@
 		<sample weight="1" path="heart out.wav" />
 	</sound>
 	<sound id="214">
-		<sample weight="1" path="hell portal.wav" />
+		<sample weight="1" path="Feedback/hell portal.wav" />
 	</sound>
 	<sound id="215">
-		<sample weight="1" path="hell portal 2.wav" />
+		<sample weight="1" path="Feedback/hell portal 2.wav" />
 	</sound>
 	<sound id="217">
-		<sample weight="1" path="isaac dies new.wav" />
-		<sample weight="1" path="isaac dies new 1.wav" />
-		<sample weight="1" path="isaac dies new 2.wav" />
+		<sample weight="1" path="Player/isaac dies new.wav" />
+		<sample weight="1" path="Player/isaac dies new 1.wav" />
+		<sample weight="1" path="Player/isaac dies new 2.wav" />
 	</sound>
 	<sound id="218">
-		<sample weight="1" path="battery charge.wav" />
+		<sample weight="1" path="Feedback/battery charge.wav" />
 	</sound>
 	<sound id="219">
 		<sample weight="1" path="kiss lips .wav" />
@@ -459,53 +459,53 @@
 		<sample weight="1" path="meat head shoot 2.wav" />
 	</sound>
 	<sound id="229">
-		<sample weight="1" path="lock break 1.wav" />
-		<sample weight="1" path="lock break 3.wav" />
+		<sample weight="1" path="Feedback/lock break 1.wav" />
+		<sample weight="1" path="Feedback/lock break 3.wav" />
 	</sound>
 	<sound id="231">
-		<sample weight="1" path="nickel drop.wav" />
+		<sample weight="1" path="Feedback/nickel drop.wav" />
 	</sound>
 	<sound id="232">
-		<sample weight="1" path="nickel pickup.wav" />
+		<sample weight="1" path="Feedback/nickel pickup.wav" />
 	</sound>
 	<sound id="233">
-		<sample weight="1" path="penny drop 1.wav" />
+		<sample weight="1" path="Feedback/penny drop 1.wav" />
 	</sound>
 	<sound id="234">
-		<sample weight="1" path="penny pickup 1.wav" />
+		<sample weight="1" path="Feedback/penny pickup 1.wav" />
 	</sound>
 	<sound id="237">
 		<sample weight="1" path="plop.wav" />
 	</sound>
 	<sound id="238">
-		<sample weight="1" path="satan appear.wav" />
+		<sample weight="1" path="Satan/satan appear.wav" />
 	</sound>
 	<sound id="239">
-		<sample weight="1" path="satan blast 1.wav" />
-		<sample weight="1" path="satan blast 2.wav" />
+		<sample weight="1" path="Satan/satan blast 1.wav" />
+		<sample weight="1" path="Satan/satan blast 2.wav" />
 	</sound>
 	<sound id="240">
-		<sample weight="1" path="satan charge up.wav" />
-		<sample weight="1" path="satan charge up 2.wav" />
+		<sample weight="1" path="Satan/satan charge up.wav" />
+		<sample weight="1" path="Satan/satan charge up 2.wav" />
 	</sound>
 	<sound id="241">
-		<sample weight="1" path="satan grow.wav" />
+		<sample weight="1" path="Satan/satan grow.wav" />
 	</sound>
 	<sound id="242">
-		<sample weight="1" path="satan hurt.wav" />
+		<sample weight="1" path="Satan/satan hurt.wav" />
 	</sound>
 	<sound id="243">
-		<sample weight="1" path="satan rise up.wav" />
+		<sample weight="1" path="Satan/satan rise up.wav" />
 	</sound>
 	<sound id="245">
-		<sample weight="1" path="satan spit.wav" />
-		<sample weight="1" path="satan spit 2.wav" />
-		<sample weight="1" path="satan spit 3.wav" />
+		<sample weight="1" path="Satan/satan spit.wav" />
+		<sample weight="1" path="Satan/satan spit 2.wav" />
+		<sample weight="1" path="Satan/satan spit 3.wav" />
 	</sound>
 	<sound id="246">
-		<sample weight="1" path="satan stomp.wav" />
-		<sample weight="1" path="satan stomp 2.wav" />
-		<sample weight="1" path="satan stomp 3.wav" />
+		<sample weight="1" path="Satan/satan stomp.wav" />
+		<sample weight="1" path="Satan/satan stomp 2.wav" />
+		<sample weight="1" path="Satan/satan stomp 3.wav" />
 	</sound>
 	<sound id="249">
 		<sample weight="1" path="scamper 1.wav" />
@@ -516,9 +516,9 @@
 		<sample weight="1" path="shell game 1.wav" />
 	</sound>
 	<sound id="255">
-		<sample weight="1" path="slotspawn 0.wav" />
-		<sample weight="1" path="slotspawn1.wav" />
-		<sample weight="1" path="slotspawn 2.wav" />
+		<sample weight="1" path="Feedback/slotspawn 0.wav" />
+		<sample weight="1" path="Feedback/slotspawn1.wav" />
+		<sample weight="1" path="Feedback/slotspawn 2.wav" />
 	</sound>
 	<sound id="258">
 		<sample weight="1" path="splatter 0.wav" />
@@ -539,22 +539,22 @@
 		<sample weight="1" path="wierd worm spit3.wav" />
 	</sound>
 	<sound id="265">
-		<sample weight="1" path="summonsound.wav" />
+		<sample weight="1" path="Feedback/summonsound.wav" />
 	</sound>
 	<sound id="266">
-		<sample weight="1" path="superholy.wav" />
+		<sample weight="1" path="Feedback/superholy.wav" />
 	</sound>
 	<sound id="267">
-		<sample weight="1" path="thumbs down.wav" />
+		<sample weight="1" path="Feedback/thumbs down.wav" />
 	</sound>
 	<sound id="268">
-		<sample weight="1" path="thumbs up.wav" />
+		<sample weight="1" path="Feedback/thumbs up.wav" />
 	</sound>
 	<sound id="269">
-		<sample weight="1" path="fire burning.wav" />
+		<sample weight="1" path="Loops/fire burning.wav" />
 	</sound>
 	<sound id="270">
-		<sample weight="1" path="happy rainbow with giggle.wav" />
+		<sample weight="1" path="Feedback/happy rainbow with giggle.wav" />
 	</sound>
 	<sound id="300">
 		<sample weight="1" path="boo mad.wav" />
@@ -630,7 +630,7 @@
 		<sample weight="1" path="little spit 4.wav" />
 	</sound>
 	<sound id="320">
-		<sample weight="1" path="satan room appear.wav" />
+		<sample weight="1" path="Feedback/satan room appear.wav" />
 	</sound>
 	<sound id="321">
 		<sample weight="1" path="heartbeat.wav" />
@@ -640,5 +640,374 @@
 	</sound>
 	<sound id="323">
 		<sample weight="1" path="heartbeat fastest.wav" />
+	</sound>
+	<sound id="324">
+		<sample weight="1" path="Voiceover/48 Hr Energy 6.wav" />
+	</sound>
+	<sound id="325">
+		<sample weight="1" path="Voiceover/Algiz 3.wav" />
+	</sound>
+	<sound id="326">
+		<sample weight="1" path="Voiceover/Amnesia 2.wav" />
+	</sound>
+	<sound id="327">
+		<sample weight="1" path="Voiceover/Ansuz 1.wav" />
+	</sound>
+	<sound id="328">
+		<sample weight="1" path="Voiceover/Bad Gas 2.wav" />
+	</sound>
+	<sound id="329">
+		<sample weight="1" path="Voiceover/Bad Trip 1.wav" />
+	</sound>
+	<sound id="330">
+		<sample weight="1" path="Voiceover/Balls of Steel 4.wav" />
+	</sound>
+	<sound id="331">
+		<sample weight="1" path="Voiceover/Berkano 3.wav" />
+	</sound>
+	<sound id="332">
+		<sample weight="1" path="Voiceover/Bombs Are Key 1.wav" />
+	</sound>
+	<sound id="333">
+		<sample weight="1" path="Voiceover/Card Against Humanity 3.wav" />
+	</sound>
+	<sound id="334">
+		<sample weight="1" path="Voiceover/Chaos Card 2.wav" />
+	</sound>
+	<sound id="335">
+		<sample weight="1" path="Voiceover/Credit Card 2.wav" />
+	</sound>
+	<sound id="336">
+		<sample weight="1" path="Voiceover/Dagaz 3.wav" />
+	</sound>
+	<sound id="337">
+		<sample weight="1" path="Voiceover/Death 3.wav" />
+	</sound>
+	<sound id="338">
+		<sample weight="1" path="Voiceover/Ehwaz 1.wav" />
+	</sound>
+	<sound id="339">
+		<sample weight="1" path="Voiceover/Explosive Diahhrea 2.wav" />
+	</sound>
+	<sound id="340">
+		<sample weight="1" path="Voiceover/Full Health 1.wav" />
+	</sound>
+	<sound id="341">
+		<sample weight="1" path="Voiceover/Hagalaz 3.wav" />
+	</sound>
+	<sound id="342">
+		<sample weight="1" path="Voiceover/Health Down 2.wav" />
+	</sound>
+	<sound id="343">
+		<sample weight="1" path="Voiceover/Health Up 1.wav" />
+	</sound>
+	<sound id="344">
+		<sample weight="1" path="Voiceover/Hematemisis 1.wav" />
+	</sound>
+	<sound id="345">
+		<sample weight="1" path="Voiceover/I Found Pills 3.wav" />
+	</sound>
+	<sound id="346">
+		<sample weight="1" path="Voiceover/Jera 2.wav" />
+	</sound>
+	<sound id="347">
+		<sample weight="1" path="Voiceover/Joker 3.wav" />
+	</sound>
+	<sound id="348">
+		<sample weight="1" path="Voiceover/Judgement 3.wav" />
+	</sound>
+	<sound id="349">
+		<sample weight="1" path="Voiceover/Justice 3.wav" />
+	</sound>
+	<sound id="350">
+		<sample weight="1" path="Voiceover/Lemon Party 1.wav" />
+	</sound>
+	<sound id="351">
+		<sample weight="1" path="Voiceover/Luck Down 2.wav" />
+	</sound>
+	<sound id="352">
+		<sample weight="1" path="Voiceover/Luck Up 1.wav" />
+	</sound>
+	<sound id="353">
+		<sample weight="1" path="Voiceover/Paralysis 3.wav" />
+	</sound>
+	<sound id="354">
+		<sample weight="1" path="Voiceover/Perthro 1.wav" />
+	</sound>
+	<sound id="355">
+		<sample weight="1" path="Voiceover/Pheromones 2.wav" />
+	</sound>
+	<sound id="356">
+		<sample weight="1" path="Voiceover/Pretty Fly 5.wav" />
+	</sound>
+	<sound id="357">
+		<sample weight="1" path="Voiceover/Puberty 1.wav" />
+	</sound>
+	<sound id="358">
+		<sample weight="1" path="Voiceover/R U A WIZ 2.wav" />
+	</sound>
+	<sound id="359">
+		<sample weight="1" path="Voiceover/Range Down 2.wav" />
+	</sound>
+	<sound id="360">
+		<sample weight="1" path="Voiceover/Range Up 1.wav" />
+	</sound>
+	<sound id="361">
+		<sample weight="1" path="Voiceover/Rules Card 1.wav" />
+	</sound>
+	<sound id="362">
+		<sample weight="1" path="Voiceover/See 4Ever 1.wav" />
+		<sample weight="1" path="Voiceover/See 4ever 2.wav" />
+	</sound>
+	<sound id="363">
+		<sample weight="1" path="Voiceover/Speed Down 2.wav" />
+	</sound>
+	<sound id="364">
+		<sample weight="1" path="Voiceover/Speed Up 2.wav" />
+	</sound>
+	<sound id="365">
+		<sample weight="1" path="Voiceover/Strength 1.wav" />
+	</sound>
+	<sound id="366">
+		<sample weight="1" path="Voiceover/Suicide King 3.wav" />
+	</sound>
+	<sound id="367">
+		<sample weight="1" path="Voiceover/Tears Down 5.wav" />
+	</sound>
+	<sound id="368">
+		<sample weight="1" path="Voiceover/Tears Up 2.wav" />
+	</sound>
+	<sound id="369">
+		<sample weight="1" path="Voiceover/Telepills 4.wav" />
+	</sound>
+	<sound id="370">
+		<sample weight="1" path="Voiceover/Temperance 2.wav" />
+	</sound>
+	<sound id="371">
+		<sample weight="1" path="Voiceover/The Chariot 3.wav" />
+	</sound>
+	<sound id="372">
+		<sample weight="1" path="Voiceover/The Devil 2.wav" />
+	</sound>
+	<sound id="373">
+		<sample weight="1" path="Voiceover/The Emporer 1.wav" />
+	</sound>
+	<sound id="374">
+		<sample weight="1" path="Voiceover/The Empress 1.wav" />
+	</sound>
+	<sound id="375">
+		<sample weight="1" path="Voiceover/The Fool 2.wav" />
+	</sound>
+	<sound id="376">
+		<sample weight="1" path="Voiceover/The Hanged Man 1.wav" />
+	</sound>
+	<sound id="377">
+		<sample weight="1" path="Voiceover/The Hermit 1.wav" />
+	</sound>
+	<sound id="378">
+		<sample weight="1" path="Voiceover/The Hierophant 1.wav" />
+	</sound>
+	<sound id="379">
+		<sample weight="1" path="Voiceover/The High Priestess 3.wav" />
+	</sound>
+	<sound id="380">
+		<sample weight="1" path="Voiceover/The Lovers 1.wav" />
+	</sound>
+	<sound id="381">
+		<sample weight="1" path="Voiceover/The Magician 2.wav" />
+	</sound>
+	<sound id="382">
+		<sample weight="1" path="Voiceover/The Moon 3.wav" />
+	</sound>
+	<sound id="383">
+		<sample weight="1" path="Voiceover/The Stars 1.wav" />
+	</sound>
+	<sound id="384">
+		<sample weight="1" path="Voiceover/The Sun 3.wav" />
+	</sound>
+	<sound id="385">
+		<sample weight="1" path="Voiceover/The Tower 3.wav" />
+	</sound>
+	<sound id="386">
+		<sample weight="1" path="Voiceover/The World 1.wav" />
+	</sound>
+	<sound id="387">
+		<sample weight="1" path="Voiceover/Two Of Clubs 2.wav" />
+	</sound>
+	<sound id="388">
+		<sample weight="1" path="Voiceover/Two Of Diamonds 2.wav" />
+	</sound>
+	<sound id="389">
+		<sample weight="1" path="Voiceover/Two Of Hearts 1.wav" />
+	</sound>
+	<sound id="390">
+		<sample weight="1" path="Voiceover/Two Of Spades 1.wav" />
+	</sound>
+	<sound id="391">
+		<sample weight="1" path="Voiceover/Wheel Of Fortune 1.wav" />
+	</sound>
+	
+	<sound id="392">
+		<sample weight="1" path="Ragman 1.wav" />
+	</sound>
+	<sound id="393">
+		<sample weight="1" path="Ragman 2.wav" />
+	</sound>
+	<sound id="394">
+		<sample weight="1" path="Ragman 3.wav" />
+	</sound>
+	<sound id="395">
+		<sample weight="1" path="Ragman 4.wav" />
+	</sound>
+	
+	<sound id="396">
+		<sample weight="1" path="Flush.wav" />
+	</sound>
+	<sound id="397">
+		<sample weight="1" path="Drip1.wav" />
+		<sample weight="1" path="Drop2.wav" />
+		<sample weight="1" path="Drop3.wav" />
+	</sound>
+	<sound id="398">
+		<sample weight="1" path="WetFootstep1.wav" />
+		<sample weight="1" path="WetFootstep2.wav" />
+		<sample weight="1" path="WetFootstep3.wav" />
+	</sound>
+	
+	<sound id="399">
+		<sample weight="1" path="Voiceover/Addicted_01.wav" />
+	</sound>
+	<sound id="400">
+		<sample weight="1" path="Voiceover/Dice Shard_04.wav" />
+	</sound>
+	<sound id="401">
+		<sample weight="1" path="Voiceover/Emergency_03.wav" />
+	</sound>
+	<sound id="402">
+		<sample weight="1" path="Voiceover/Infested!_02.wav" />
+	</sound>
+	<sound id="403">
+		<sample weight="1" path="Voiceover/Infested_08.wav" />
+	</sound>
+	<sound id="404">
+		<sample weight="1" path="Voiceover/Jail Card_04.wav" />
+	</sound>
+	<sound id="405">
+		<sample weight="1" path="Voiceover/Larger_03.wav" />
+	</sound>
+	<sound id="406">
+		<sample weight="1" path="Voiceover/Percs1.wav" />
+	</sound>
+	<sound id="407">
+		<sample weight="1" path="Voiceover/Power Pill_09.wav" />
+	</sound>
+	<sound id="408">
+		<sample weight="1" path="Voiceover/Q Mark_05.wav" />
+	</sound>
+	<sound id="409">
+		<sample weight="1" path="Voiceover/Relax 1.wav" />
+	</sound>
+	<sound id="410">
+		<sample weight="1" path="Voiceover/Retro_05.wav" />
+	</sound>
+	<sound id="411">
+		<sample weight="1" path="Voiceover/Small_05.wav" />
+	</sound>
+	<sound id="412">
+		<sample weight="1" path="Voiceover/___.wav" />
+		<sample weight="1" path="Voiceover/___-2.wav" />
+		<sample weight="1" path="Voiceover/___-3.wav" />
+	</sound>
+	
+	<sound id="413">
+		<sample weight="1" path="DangleWhistle.wav" />
+	</sound>
+	<sound id="414">
+		<sample weight="1" path="LittlehornCough.wav" />
+	</sound>
+	<sound id="415">
+		<sample weight="1" path="LittlehornGrunt1.wav" />
+	</sound>
+	<sound id="416">
+		<sample weight="1" path="LittlehornGrunt2.wav" />
+	</sound>
+	<sound id="417">
+		<sample weight="1" path="TheForsakenLaugh.wav" />
+	</sound>
+	<sound id="418">
+		<sample weight="1" path="TheForsakenScream.wav" />
+	</sound>
+	<sound id="419">
+		<sample weight="1" path="TheStainBurst.wav" />
+	</sound>
+	<sound id="420">
+		<sample weight="1" path="BrownieLaugh1.wav" />
+		<sample weight="1" path="BrownieLaugh2.wav" />
+	</sound>
+	<sound id="421">
+		<sample weight="1" path="Cave Monster Roar.wav" />
+	</sound>
+	<sound id="422">
+		<sample weight="1" path="Monster Roar 02.wav" />
+	</sound>
+	<sound id="423">
+		<sample weight="1" path="Monster Roar 03.wav" />
+	</sound>
+	<sound id="424">
+		<sample weight="1" path="Frail Charge.wav" />
+	</sound>
+	<sound id="425">
+		<sample weight="1" path="Hush Charge.wav" />
+	</sound>
+	<sound id="426">
+		<sample weight="1" path="Maw Of The Void.wav" />
+	</sound>
+	
+	<sound id="427">
+		<sample weight="1" path="Greed SFX/Coin Destruction/Coin Destroy.wav" />
+	</sound>
+	<sound id="428">
+		<sample weight="1" path="Greed SFX/Coins Falling/Coins Falling 1.wav" />
+		<sample weight="1" path="Greed SFX/Coins Falling/Coins Falling 2.wav" />
+	</sound>
+	<sound id="429">
+		<sample weight="1" path="Greed SFX/Greed Death/Greed Death Scream4.wav" />
+	</sound>
+	<sound id="430">
+		<sample weight="1" path="Greed SFX/Greed Death/Greed Turns to Gold.wav" />
+	</sound>
+	<sound id="431">
+		<sample weight="1" path="Greed SFX/Greed Death/Greed Turns to Gold2.wav" />
+	</sound>
+	<sound id="432">
+		<sample weight="1" path="Greed SFX/Greed Roar/Greed Roar1.wav" />
+	</sound>
+	<sound id="433">
+		<sample weight="1" path="Greed SFX/Greed Roar/Greed Roar2.wav" />
+	</sound>
+	<sound id="434">
+		<sample weight="1" path="Greed SFX/Greed Shooting/Spitting v1.wav" />
+		<sample weight="1" path="Greed SFX/Greed Shooting/Spitting v2.wav" />
+		<sample weight="1" path="Greed SFX/Greed Shooting/Spitting v3.wav" />
+	</sound>
+	<sound id="435">
+		<sample weight="1" path="Greed SFX/Greed Slot Eyes/Pull Slot.wav" />
+	</sound>
+	<sound id="436">
+		<sample weight="1" path="Greed SFX/Greed Slot Eyes/Spin Loop.wav" />
+	</sound>
+	<sound id="437">
+		<sample weight="1" path="Greed SFX/Greed Slot Eyes/Stop.wav" />
+	</sound>
+	<sound id="438">
+		<sample weight="1" path="Greed SFX/Greed Slot Eyes/Win Loop End Sound.wav" />
+	</sound>
+	<sound id="439">
+		<sample weight="1" path="Greed SFX/Greed Slot Eyes/Win Loop.wav" />
+	</sound>
+	<sound id="440">
+		<sample weight="1" path="Greed SFX/Greed Spinning Lariat SFX/Lasso_Spin_Fast_Loop_1a.wav" />
+		<sample weight="1" path="Greed SFX/Greed Spinning Lariat SFX/Lasso_Spin_Fast_Loop_2a.wav" />
+		<sample weight="1" path="Greed SFX/Greed Spinning Lariat SFX/Lasso_Spin_Slow_Loop_1a.wav" />
 	</sound>
 </sounds>

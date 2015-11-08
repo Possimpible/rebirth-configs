@@ -1,4 +1,4 @@
-<cutscenes root="resources/gfx/cutscenes/">
+<cutscenes root="gfx/cutscenes/">
 	<cutscene id="1" name="Intro" fadeout="true" fadecolor="white">
 		<anm2part anm2="intro.anm2" anim="Scene" music="100" musicDelay="0" width="427" height="240" />
 	</cutscene>
@@ -107,6 +107,16 @@
 	<cutscene id="19" name="Mega Satan">
 		<!--<temporary text="Isaac is inside the chest and randomly flashes from his normal form to a demon form." />-->
 		<videopart file="017_Defeating_Mega_Satan.ogv" />
+		<anm2part anm2="Credits.anm2" anim="Credits" music="60" width="480" height="270" letterbox="true" />
+	</cutscene>
+	<cutscene id="20" name="Blue Womb">
+		<!--<temporary text="Chest with Isaac's remains. Isaac in a chest, his shadow transforms into a demon." />-->
+		<videopart file="Krystal_Isaac_Ending_1.ogv" />
+		<anm2part anm2="Credits.anm2" anim="Credits" music="60" width="480" height="270" letterbox="true" />
+	</cutscene>
+	<cutscene id="21" name="Greed Mode">
+		<!--<temporary text="Isaac dies and turns into a keeper." />-->
+		<videopart file="Krystal_Isaac_Ending_2.ogv" />
 		<anm2part anm2="Credits.anm2" anim="Credits" music="60" width="480" height="270" letterbox="true" />
 	</cutscene>
 </cutscenes>
