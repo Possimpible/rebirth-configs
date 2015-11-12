@@ -259,7 +259,7 @@
 	<passive cache="tearflag" description="Flaming tears" gfx="collectibles_257_firemind.png" id="257" name="Fire Mind" />
 	<passive achievement="105" cache="all" description="Syntax error" gfx="collectibles_258_missingno.png" id="258" name="Missing No." />
 	<passive cache="damage" description="Fear shot" gfx="collectibles_259_darkmatter.png" id="259" name="Dark Matter" />
-	<passive achievement="136" blackhearts="2" cache="damage" description="Curse immunity + evil up" gfx="collectibles_260_blackcandle.png" id="260" name="Black Candle" />
+	<passive achievement="136" cache="damage" description="Curse immunity + evil up" gfx="collectibles_260_blackcandle.png" id="260" name="Black Candle" />
 	<passive cache="tearflag damage" description="Short range mega tears" gfx="collectibles_261_proptosis.png" id="261" name="Proptosis" />
 	<passive blackhearts="2" cache="damage" description="Evil up. Your enemies will pay!" gfx="collectibles_262_missingpage2.png" id="262" name="Missing Page 2" />
 	
