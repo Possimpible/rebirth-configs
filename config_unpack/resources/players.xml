@@ -20,7 +20,7 @@
 		<hair gfx="Character_009_EdenHair9.png" />
 		<hair gfx="Character_009_EdenHair10.png" />
 	</player>
-	<player armor="1" bigportrait="PlayerPortraitBig_12_TheLost.png" coins="1" hp="0" id="10" items="284" name="The Lost" nameimage="PlayerName_12_TheLost.png" portrait="PlayerPortrait_12_TheLost.png" skin="Character_012_TheLost.png" skinColor="0" />
+	<player armor="1" bigportrait="PlayerPortraitBig_12_TheLost.png" coins="1" hp="0" id="10" items="284,215" name="The Lost" nameimage="PlayerName_12_TheLost.png" portrait="PlayerPortrait_12_TheLost.png" skin="Character_012_TheLost.png" skinColor="0" />
 	<player bigportrait="PlayerPortraitBig_10_Lazarus2.png" hp="2" id="11" items="214" name="Lazarus II" nameimage="PlayerName_10_Lazarus.png" portrait="PlayerPortrait_10_Lazarus2.png" skin="Character_010_Lazarus2.png" skinColor="-1" />
 	<player bigportrait="PlayerPortraitBig_BlackJudas.png" black="4" id="12" name="Black Judas" nameimage="PlayerName_04_Judas.png" portrait="PlayerPortrait_BlackJudas.png" skin="Character_013_BlackJudas.png" skinColor="1" />
 	<player bigportrait="PlayerPortraitBig_Lilith.png" black="4" canShoot="false" hp="2" id="13" items="357,412" name="Lilith" nameimage="PlayerName_13_Lilith.png" portrait="PlayerPortrait_13_Lilith.png" skin="Character_014_Lilith.png" skinColor="1" />
