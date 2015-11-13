@@ -30,6 +30,9 @@
 	<costume anm2path="n029_Overdose.anm2" id="29" priority="99" type="none" />
 	<costume anm2path="n030_boomerang.anm2" hasSkinAlt="true" id="30" priority="200" type="none" />
 	<costume anm2path="n031_megablast.anm2" id="31" priority="200" type="none" />
+	<costume anm2path="Character_LazarusHair1.anm2" id="32" priority="200" type="none" />
+	<costume anm2path="Character_LazarusHair2.anm2" id="33" priority="200" type="none" />
+	<costume anm2path="Character_LilithHair.anm2" id="34" priority="200" type="none" />
 
 	<costume anm2path="001_The Sad Onion.anm2" id="1" type="passive">
 	</costume>

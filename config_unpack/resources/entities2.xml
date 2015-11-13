@@ -2014,16 +2014,16 @@
 	<entity id="292" variant="0" name="Movable TNT" baseHP="30" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="20" collisionRadius="20" friction="1" numGridCollisionPoints="12" shadowSize="0" portrait="113" anm2path="grid/grid_tnt_pushable.anm2" shutdoors="false">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="0" name="Ultra Greed Coin (Spinner)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="0" name="Ultra Greed Coin (Spinner)" baseHP="50" stageHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="1" name="Ultra Greed Coin (Key)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="1" name="Ultra Greed Coin (Key)" baseHP="60" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="2" name="Ultra Greed Coin (Bomb)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="2" name="Ultra Greed Coin (Bomb)" baseHP="50" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
-	<entity id="293" variant="3" name="Ultra Greed Coin (Heart)" baseHP="100" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
+	<entity id="293" variant="3" name="Ultra Greed Coin (Heart)" baseHP="40" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="7" collisionRadius="28" friction="1" numGridCollisionPoints="12" shadowSize="14" portrait="151" anm2path="293.000_UltraGreedCoins.anm2" shutdoors="true">
 		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" worm="0" />
 	</entity>
 	<entity id="294" variant="0" name="Ultra Greed Door" baseHP="0" stageHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="50" collisionRadius="10" friction="1" numGridCollisionPoints="0" shadowSize="0" portrait="84" anm2path="294.000_UltraGreedDoor.anm2" shutdoors="false">

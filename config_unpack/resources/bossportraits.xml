@@ -262,5 +262,5 @@
 	<boss id="66" name="The Frail"
 		nameimage="BossName_TheFrail.png"
 		portrait="Portrait_TheFrail.png"
-		pivotX="92" pivotY="152" />
+		pivotX="96" pivotY="132" />
 </bosses>

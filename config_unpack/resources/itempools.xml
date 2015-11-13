@@ -1019,6 +1019,26 @@
 		
 		<Item DecreaseBy="0.1" Id="292" RemoveOn="0.1" Weight="1" />
 	</Pool>
+	<Pool Name="challenge">
+		
+		<Item DecreaseBy="0.5" Id="209" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="220" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="140" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="131" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="125" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="137" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="106" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="37" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="0.5" Id="19" RemoveOn="0.1" Weight="1" />
+	</Pool>
 	<Pool Name="goldenChest">
 		
 		<Item DecreaseBy="0.4" Id="4" RemoveOn="0.1" Weight="1" />
