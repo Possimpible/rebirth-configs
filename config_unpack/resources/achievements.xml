@@ -373,6 +373,8 @@
 	
 	<achievement gfx="Achievement_190_Incubus.png" id="190" steam_description="" steam_icon="Achievement_Incubus.png" steam_name="Incubus" text="&quot;Incubus&quot; has appeared in the basement" />
 	
+	<achievement gfx="Achievement_191_APenny.png" id="191" steam_description="" steam_icon="Achievement_KeeperNowHoldsAPenny.png" steam_name="Keeper's Penny" text="Keeper now holds... &quot;A Penny!&quot;" />
+	
 	<achievement gfx="Achievement_192_LilChest.png" id="192" steam_description="" steam_icon="Achievement_LilChest.png" steam_name="Lil' Chest" text="&quot;Lil' Chest&quot; has appeared in the basement" />
 	
 	<achievement gfx="Achievement_193_Censer.png" id="193" steam_description="" steam_icon="Achievement_Censer.png" steam_name="Censer" text="&quot;Censer&quot; has appeared in the basement" />
@@ -397,6 +399,8 @@
 	
 	<achievement gfx="Achievement_203_BoxOfFriends.png" id="203" steam_description="" steam_icon="Achievement_BoxOfFriends.png" steam_name="Box of Friends" text="&quot;Box of Friends&quot; has appeared in the basement" />
 	
+	<achievement gfx="Achievement_204_RibOfGreed.png" id="204" steam_description="" steam_icon="Achievement_RibOfGreed.png" steam_name="Rib of Greed" text="&quot;Rib of Greed&quot; has appeared in the basement" />
+	
 	<achievement gfx="Achievement_205_CryBaby.png" id="205" steam_description="" steam_icon="Achievement_CryBaby.png" steam_name="Cry Baby" text="&quot;Cry Baby&quot; has appeared in the basement" />
 	
 	<achievement gfx="Achievement_206_RedBaby.png" id="206" steam_description="" steam_icon="Achievement_RedBaby.png" steam_name="Red Baby" text="&quot;Red Baby&quot; has appeared in the basement" />
@@ -420,6 +424,8 @@
 	<achievement gfx="Achievement_215_WhiteBaby.png" id="215" steam_description="" steam_icon="Achievement_WhiteBaby.png" steam_name="White Baby" text="&quot;White Baby&quot; has appeared in the basement" />
 	
 	<achievement gfx="Achievement_216_BigBaby.png" id="216" steam_description="" steam_icon="Achievement_BigBaby.png" steam_name="Big Baby" text="&quot;Big Baby&quot; has appeared in the basement" />
+	
+	<achievement gfx="Achievement_217_NooseBaby.png" id="217" steam_description="" steam_icon="Achievement_NooseBaby.png" steam_name="Noose Baby" text="&quot;Noose Baby&quot; has appeared in the basement" />
 	
 	<achievement gfx="Achievement_218_RuneBag.png" id="218" steam_description="" steam_icon="Achievement_RuneBag.png" steam_name="Rune Bag" text="&quot;Rune Bag&quot; has appeared in the basement" />
 	
@@ -455,6 +461,20 @@
 	
 	<achievement gfx="Achievement_234_BlueWomb.png" id="234" steam_description="" steam_icon="Achievement_BlueWomb.png" steam_name="Blue Womb" text="You unlocked the Blue Womb!" />
 	
+	<achievement gfx="Achievement_235_1000Percent.png" id="235" steam_description="" steam_icon="Achievement_1001.png" steam_name="1001%" text="1001% (Nerd x 1000000)" />
+	
+	<achievement gfx="Achievement_236_KeeperWoodenNickel.png" id="236" steam_description="" steam_icon="Achievement_KeeperNowHoldsWoodenNickel.png" steam_name="Keeper's Wooden Nickel" text="Keeper now holds... &quot;Wooden Nickel&quot;" />
+	
+	<achievement gfx="Achievement_237_KeeperStoreKey.png" id="237" steam_description="" steam_icon="Achievement_KeeperNowHoldsStoreKey.png" steam_name="Keeper's Store Key" text="Keeper now holds... &quot;Store Key&quot;" />
+	
+	<achievement gfx="Achievement_238_DeepPockets.png" id="238" steam_description="" steam_icon="Achievement_DeepPockets.png" steam_name="Deep Pockets" text="&quot;Deep Pockets&quot; has appeared in the basement" />
+	
+	<achievement gfx="Achievement_239_Karma.png" id="239" steam_description="" steam_icon="Achievement_Karma.png" steam_name="Karma" text="&quot;Karma&quot; has appeared in the basement" />
+	
+	<achievement gfx="Achievement_240_StickyNickels.png" id="240" steam_description="" steam_icon="Achievement_StickyNickel.png" steam_name="Sticky Nickels" text="Sticky Nickels have appeared in the basement" />
+	
+	<achievement gfx="Achievement_241_SuperGreedBaby.png" id="241" steam_description="" steam_icon="Achievement_SuperGreedBaby.png" steam_name="Super Greed Baby" text="&quot;Super Greed Baby&quot; has appeared in the basement" />
+	
 	<achievement gfx="Achievement_242_LuckyPenny.png" id="242" steam_description="" steam_icon="Achievement_LuckyPennies.png" steam_name="Lucky Pennies" text="Lucky Pennies have appeared in the basement" />
 	
 	<achievement gfx="Achievement_243_SpecialHangingShopkeepers.png" id="243" steam_description="" steam_icon="Achievement_SpecialHangingShopkeepers.png" steam_name="Special Hanging Shopkeepers" text="You unlocked Special Hanging Shopkeepers!" />
@@ -472,6 +492,8 @@
 	<achievement gfx="Achievement_249_StoreKey.png" id="249" steam_description="" steam_icon="Achievement_StoreKey.png" steam_name="Store Key" text="&quot;Store Key&quot; has appeared in the basement" />
 	
 	<achievement gfx="Achievement_250_LostHolyMantle.png" id="250" steam_description="" steam_icon="Achievement_LostNowHoldsHolyMantle.png" steam_name="Holy Mantle" text="Lost now holds... &quot;Holy Mantle&quot;" />
+	
+	<achievement gfx="Achievement_251_Keeper.png" id="251" steam_description="" steam_icon="Achievement_YouUnlockedKeeper.png" steam_name="Keeper" text="You unlocked &quot;Keeper&quot;" />
 	
 	<achievement gfx="Achievement_252_HiveBaby.png" id="252" steam_description="" steam_icon="Achievement_HiveBaby.png" steam_name="Hive Baby" text="&quot;Hive Baby&quot; has appeared in the basement" />
 	
@@ -497,6 +519,8 @@
 	
 	<achievement gfx="Achievement_263_BelialBaby.png" id="263" steam_description="" steam_icon="Achievement_BelialBaby.png" steam_name="Belial Baby" text="&quot;Belial Baby&quot; has appeared in the basement" />
 	
+	<achievement gfx="Achievement_264_SaleBaby.png" id="264" steam_description="" steam_icon="Achievement_SaleBaby.png" steam_name="Sale Baby" text="&quot;Sale Baby&quot; has appeared in the basement" />
+
 	<achievement gfx="Achievement_Challenge21.png" id="265" steam_description="" steam_icon="Achievement_XXXXXXXXL.png" steam_name="XXXXXXXXL" text="You unlocked Challenge #21 XXXXXXXXL" />
 	<achievement gfx="Achievement_Challenge22.png" id="266" steam_description="" steam_icon="Achievement_Speed.png" steam_name="SPEED!" text="You unlocked Challenge #22 SPEED!" />
 	<achievement gfx="Achievement_Challenge23.png" id="267" steam_description="" steam_icon="Achievement_BlueBomber.png" steam_name="Blue Bomber" text="You unlocked Challenge #23 Blue Bomber" />

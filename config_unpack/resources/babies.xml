@@ -40,6 +40,7 @@
 	<baby achievement="210" id="36" name="Lil' Baby" skin="036_Baby_Lil.png" />
 	<baby achievement="216" id="37" name="Big Baby" skin="037_Baby_Big.png" />
 	<baby achievement="208" id="38" name="Brown Baby" skin="038_Baby_Brown.png" />
+	<baby achievement="217" id="39" name="Noose Baby" skin="039_Baby_Noose.png" />
 	<baby achievement="252" id="40" name="Hive Baby" skin="040_Baby_Hive.png" />
 	<baby achievement="253" id="41" name="Buddy Baby" skin="041_Baby_Buddy.png" />
 	<baby achievement="254" id="42" name="Colorful Baby" skin="042_Baby_Colorful.png" />
@@ -52,7 +53,10 @@
 	<baby achievement="261" id="49" name="Picky Baby" skin="049_Baby_Picky.png" />
 	<baby achievement="262" id="50" name="Revenge Baby" skin="050_Baby_Revenge.png" />
 	<baby achievement="263" id="51" name="Belial Baby" skin="051_Baby_Belial.png" />
+	<baby achievement="264" id="52" name="Sale Baby" skin="052_Baby_Sale.png" />
 	<baby achievement="223" id="53" name="Goat Head Baby" skin="053_Baby_GoatBaby.png" />
+	<baby achievement="241" id="54" name="Super Greed Baby" skin="054_Baby_Super GreedBaby.png" />
+	
 	<baby id="55" name="Tooth Baby" skin="055_Baby_Tooth.png" />
 	<baby id="56" name="Haunt Baby" skin="056_Baby_Haunt.png" />
 	<baby id="57" name="Big Eyes Baby" skin="057_Baby_Bigeyes.png" />
