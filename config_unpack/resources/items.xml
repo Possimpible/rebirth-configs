@@ -105,7 +105,7 @@
 	<passive achievement="31" cache="tearcolor tearflag" description="Split shot" gfx="Collectibles_104_TheParasite.png" id="104" name="The Parasite" />
 	<active achievement="29" description="Reroll your destiny " gfx="Collectibles_105_Dice.png" id="105" maxcharges="6" name="The D6" special="true" />
 	<passive achievement="28" bombs="5" description="Blast damage" gfx="Collectibles_106_MrMega.png" id="106" name="Mr. Mega" />
-	<active cache="familiars" description="Cut and run" gfx="Collectibles_107_PinkingShears.png" id="107" maxcharges="6" name="The Pinking Shears" />
+    <active cache="familiars" description="Cut and run" gfx="Collectibles_107_PinkingShears.png" id="107" maxcharges="6" name="The Pinking Shears" />
 	<passive description="Damage resistance" gfx="Collectibles_108_TheWafer.png" id="108" name="The Wafer" />
 	<passive cache="damage" description="$$$ = DMG" gfx="Collectibles_109_MoneyisPower.png" id="109" name="Money = Power" />
 	<passive achievement="35" cache="tearcolor tearflag" description="Freeze effect" gfx="Collectibles_110_MomsContacts.png" id="110" name="Mom's Contacts" />
@@ -358,7 +358,7 @@
 	<passive description="Don't swallow the prize!" gfx="Collectibles_354_CrackJacks.png" hearts="2" id="354" maxhearts="2" name="Crack Jacks" />
 	<passive cache="luck range" description="Range + luck up" gfx="Collectibles_355_MomsPearls.png" id="355" name="Mom's Pearls" />
 	<passive description="Double charge!" gfx="Collectibles_356_CarBattery.png" id="356" name="Car Battery" />
-	<active achievement="203" description="Double your friends" gfx="Collectibles_357_PandorasBox.png" id="357" maxcharges="4" name="Box of Friends" />
+	<active achievement="203" cache="familiars" description="Double your friends" gfx="Collectibles_357_PandorasBox.png" id="357" maxcharges="4" name="Box of Friends" />
 	<passive cache="tearflag" description="Double wiz shot!" gfx="Collectibles_358_TheWiz.png" id="358" name="The Wiz" />
 	<passive cache="damage tearflag" description="Stick it to 'em!" gfx="Collectibles_359_8InchNails.png" id="359" name="8 Inch Nails" />
 	<familiar achievement="190" description="Dark friend" devilprice="2" gfx="Collectibles_360_Incubus.png" id="360" name="Incubus" />

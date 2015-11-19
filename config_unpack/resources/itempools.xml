@@ -938,6 +938,8 @@
 		<Item DecreaseBy="1" Id="363" RemoveOn="0.1" Weight="1" />
 		
 		<Item DecreaseBy="1" Id="423" RemoveOn="0.1" Weight="1" />
+		
+		<Item DecreaseBy="1" Id="387" RemoveOn="0.1" Weight="1" />
 	</Pool>
 	<Pool Name="secret">
 		

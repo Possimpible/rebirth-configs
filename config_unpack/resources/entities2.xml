@@ -1187,7 +1187,7 @@
     <entity anm2path="065.001_Conquest.anm2" baseHP="500" boss="1" bossID="38" champion="0" collisionDamage="2" collisionMass="30" collisionRadius="25" friction="1" id="65" name="Conquest" numGridCollisionPoints="12" shadowSize="19" stageHP="0" variant="1" portrait="30">
         <gibs amount="12" blood="1" bone="1" eye="1" gut="1" large="1" />
     </entity>
-    <entity anm2path="065.010_War without horse.anm2" baseHP="500" boss="1" bossID="11" champion="0" collisionDamage="2" collisionMass="30" collisionRadius="25" friction="1" id="65" name="War without horse" numGridCollisionPoints="12" shadowSize="16" stageHP="0" variant="10" portrait="29">
+    <entity anm2path="065.010_War without horse.anm2" baseHP="500" boss="1" bossID="11" champion="0" collisionDamage="2" collisionMass="30" collisionRadius="20" friction="1" id="65" name="War without horse" numGridCollisionPoints="12" shadowSize="16" stageHP="0" variant="10" portrait="29">
         <gibs amount="12" blood="1" bone="1" eye="1" gut="1" large="1" />
     </entity>
     <entity anm2path="066.000_Death.anm2" baseHP="450" boss="1" bossID="12" champion="0" collisionDamage="2" collisionMass="30" collisionRadius="25" friction="1" id="66" name="Death" numGridCollisionPoints="0" shadowSize="19" stageHP="0" variant="0" portrait="31">

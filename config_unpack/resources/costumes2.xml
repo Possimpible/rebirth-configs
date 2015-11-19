@@ -172,7 +172,7 @@
 	</costume>
 	<costume anm2path="126_Razor Blade.anm2" id="126" overwriteColor="true" skinColor="3" type="active">
 	</costume>
-	<costume anm2path="129_Bucket of Lard.anm2" id="129" type="active">
+	<costume anm2path="129_Bucket of Lard.anm2" hasSkinAlt="true" id="129" type="active">
 	</costume>
 	<costume anm2path="130_Pony.anm2" hasSkinAlt="true" id="130" isFlying="true" priority="23" type="passive">
 	</costume>
@@ -362,7 +362,7 @@
 	<costume anm2path="353_bomberboy.anm2" id="353" type="passive" />
 	<costume anm2path="354_crackerjacks.anm2" id="354" type="passive" />	
 	<costume anm2path="355_momspearls.anm2" id="355" type="passive" />	
-	<costume anm2path="356_carbattery.anm2" id="356" type="passive" />
+	<costume anm2path="356_carbattery.anm2" hasSkinAlt="true" id="356" type="passive" />
 	<costume anm2path="358_TheWiz.anm2" hasSkinAlt="true" id="358" type="passive" />
 	<costume anm2path="359_8InchNail.anm2" id="359" type="passive" />
 	<costume anm2path="366_scatterbombs.anm2" id="366" type="passive" />
